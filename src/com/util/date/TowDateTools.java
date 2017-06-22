@@ -1,6 +1,5 @@
-package com.util.DataTime;
+package com.util.date;
 
-import java.sql.Timestamp;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
